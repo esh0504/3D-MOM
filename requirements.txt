@@ -1,0 +1,18 @@
+--extra-index-url https://download.blender.org/pypi/
+numpy==1.26.4
+# torch==2.3.1+cu121
+transformers==4.49.0
+soundfile==0.13.1
+huggingface_hub==0.29.3
+tokenizers==0.21.0
+safetensors==0.5.3
+filelock==3.15.4
+packaging==22.0
+regex==2024.11.6
+requests==2.32.3
+tqdm==4.67.1
+fsspec==2024.6.1
+imageio_ffmpeg==0.6.0
+bpy==4.2.13
+# Optional fallback muxer dependency:
+# moviepy
